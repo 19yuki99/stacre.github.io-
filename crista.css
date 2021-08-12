@@ -52,7 +52,7 @@ img {
 }
 
 .fv {
-  background-image: url(../cresta/img/fv-bgi@2x.jpg);
+  background-image: url(img/fv-bgi@2x.jpg);
   background-size: cover;
   background-position: center top;
   background-repeat: no-repeat;
