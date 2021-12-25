@@ -181,7 +181,6 @@ textarea {
 }
 
 @media(max-width: 730px) {
-
 body, .fv-item, .top-message, .second-message, .first-message, .contact, .form, input, textarea, .first-message p, .second-message p, .second-service img {
   width: 100%;
   height: 100%;
@@ -306,5 +305,19 @@ ul {
   margin-bottom: 40px;
   margin-left: 0;
 }
-
+}
+@media screen and (min-width: 1200px) {
+  .header {
+  height: 78px;
+  }
+  .header h1, .nav-list a {
+  font-size: 24px;
+  }
+  .main-copy {
+  padding-left: 15%;
+  }
+  .section-wrapper {
+  max-width: 1100px;
+  margin: 0 auto;
+  }
 }
